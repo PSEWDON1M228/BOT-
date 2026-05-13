@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TRY1-TMMP.aternos.me",
-    "port": 51252,
+    "ip": "pavlostef.aternos.me:18650",
+    "port": 18650,
     "version": "1.21.11",
     "try-creative": false
   },

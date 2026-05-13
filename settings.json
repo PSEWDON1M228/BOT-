@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pavlostef.aternos.me:18650",
+    "ip": "pavlostef.aternos.me",
     "port": 18650,
     "version": "1.21.11",
     "try-creative": false

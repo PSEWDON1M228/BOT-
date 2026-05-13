@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "44391": "Sigm15796.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "TRY1-TMMP.aternos.me",
+    "port": 51252,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
